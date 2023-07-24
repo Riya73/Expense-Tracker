@@ -1,0 +1,36 @@
+@media only screen and (min-width:150px) and (max-width:600px){
+
+    #body {
+        margin: 0 auto;
+        width: 90%;
+        clear: both;
+    }
+    
+    
+    }
+
+    @media screen and (min-width: 769px) {
+        /* STYLES HERE */
+        #body {
+            margin: 0 auto;
+            width: 90%;
+            clear: both;
+        }
+    }
+    
+    @media screen and (min-device-width: 481px) and (max-device-width: 768px) { 
+        /* STYLES HERE */
+        #body {
+            margin: 0 auto;
+            width: 90%;
+            clear: both;
+        }
+    }
+    
+    @media only screen and (max-device-width: 480px) {
+        #body {
+            margin: 0 auto;
+            width: 90%;
+            clear: both;
+        }
+    }
